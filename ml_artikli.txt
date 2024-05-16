@@ -1,0 +1,96 @@
+
+Amazon A2I
+https://docs.aws.amazon.com//augmented-ai/?icmpid=docs_homepage_ml
+
+Apache MXNet on AWS
+https://docs.aws.amazon.com//mxnet/?icmpid=docs_homepage_ml
+
+Amazon Bedrock
+https://docs.aws.amazon.com//bedrock/?icmpid=docs_homepage_ml
+
+Amazon CodeGuru
+https://docs.aws.amazon.com//codeguru/?icmpid=docs_homepage_ml
+
+Amazon CodeWhisperer
+https://docs.aws.amazon.com//codewhisperer/?icmpid=docs_homepage_ml
+
+Amazon Comprehend
+https://docs.aws.amazon.com//comprehend/?icmpid=docs_homepage_ml
+
+Amazon Comprehend Medical
+https://docs.aws.amazon.com//comprehend-medical/?icmpid=docs_homepage_ml
+
+AWS Deep Learning AMI
+https://docs.aws.amazon.com//dlami/?icmpid=docs_homepage_ml
+
+AWS Deep Learning Containers
+https://docs.aws.amazon.com//deep-learning-containers/?icmpid=docs_homepage_ml
+
+AWS DeepComposer
+https://docs.aws.amazon.com//deepcomposer/?icmpid=docs_homepage_ml
+
+AWS DeepRacer
+https://docs.aws.amazon.com//deepracer/?icmpid=docs_homepage_ml
+
+Amazon DevOps Guru
+https://docs.aws.amazon.com//devops-guru/?icmpid=docs_homepage_ml
+
+Amazon Elastic Inference
+https://docs.aws.amazon.com//elastic-inference/?icmpid=docs_homepage_ml
+
+Amazon Forecast
+https://docs.aws.amazon.com//forecast/?icmpid=docs_homepage_ml
+
+Amazon Fraud Detector
+https://docs.aws.amazon.com//frauddetector/?icmpid=docs_homepage_ml
+
+AWS HealthImaging
+https://docs.aws.amazon.com//healthimaging/?icmpid=docs_homepage_ml
+
+AWS HealthLake
+https://docs.aws.amazon.com//healthlake/?icmpid=docs_homepage_ml
+
+AWS HealthOmics
+https://docs.aws.amazon.com//omics/?icmpid=docs_homepage_ml
+
+Amazon Kendra
+https://docs.aws.amazon.com//kendra/?icmpid=docs_homepage_ml
+
+Amazon Lex
+https://docs.aws.amazon.com//lex/?icmpid=docs_homepage_ml
+
+Amazon Lookout for Equipment
+https://docs.aws.amazon.com//lookout-for-equipment/?icmpid=docs_homepage_ml
+
+Amazon Lookout for Metrics
+https://docs.aws.amazon.com//lookout-for-metrics/?icmpid=docs_homepage_ml
+
+Amazon Lookout for Vision
+https://docs.aws.amazon.com//lookout-for-vision/?icmpid=docs_homepage_ml
+
+Amazon Machine Learning
+https://docs.aws.amazon.com//machine-learning/?icmpid=docs_homepage_ml
+
+Amazon Monitron
+https://docs.aws.amazon.com//Monitron/?icmpid=docs_homepage_ml
+
+AWS Panorama
+https://docs.aws.amazon.com//panorama/?icmpid=docs_homepage_ml
+
+Amazon Personalize
+https://docs.aws.amazon.com//personalize/?icmpid=docs_homepage_ml
+
+Amazon Polly
+https://docs.aws.amazon.com//polly/?icmpid=docs_homepage_ml
+
+Amazon Rekognition
+https://docs.aws.amazon.com//rekognition/?icmpid=docs_homepage_ml
+
+Amazon Textract
+https://docs.aws.amazon.com//textract/?icmpid=docs_homepage_ml
+
+Amazon Transcribe
+https://docs.aws.amazon.com//transcribe/?icmpid=docs_homepage_ml
+
+Amazon Translate
+https://docs.aws.amazon.com//translate/?icmpid=docs_homepage_ml
