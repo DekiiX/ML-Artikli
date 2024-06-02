@@ -1,4 +1,4 @@
-
+OVO JE STEST NA NOVOM BRANCHU
 Amazon A2I
 https://docs.aws.amazon.com//augmented-ai/?icmpid=docs_homepage_ml
 
